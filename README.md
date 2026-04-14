@@ -54,4 +54,4 @@ The dataset includes housing-related features such as:
 ## ▶️ How to Run
 ```bash
 pip install -r requirements.txt
-python app.py
+python Louisville housing app.py
