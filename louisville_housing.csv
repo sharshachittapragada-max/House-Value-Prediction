@@ -1,0 +1,5 @@
+crime_rate,zoned_land,industry_area,proximity_river,pollution_level,avg_rooms,house_age,distance_employ,highway_access,tax_rate,education_ratio,percent_black,lower_status_pop,house_value
+0.05,25%,10%,1,30,6,40%,3.5,4,20,12,30%,20%,250
+0.2,35%,15%,0,45,7,50%,5.0,5,18,15,45%,15%,300
+0.15,40%,20%,0,40,5,55%,4.5,3,22,13,40%,18%,200
+0.1,30%,12%,1,25,8,45%,2.0,6,19,10,35%,22%,275
